@@ -23,6 +23,7 @@ print(person_c.name, person_c.birth_date, person_c.occupation,person_c.higher_ed
 
 person_a.introduce()
 person_b.introduce()
+person_c.introduce()
 
 
 
