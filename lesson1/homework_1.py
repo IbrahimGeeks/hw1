@@ -10,7 +10,7 @@ class Person:
             education_status = 'имеется высшее образование'
         else:
             education_status = 'высшего образования нет'
-        print(print(f"Меня зовут {self.name}, я родился {self.birth_date}, "
+        print((f"Меня зовут {self.name}, я родился {self.birth_date}, "
               f"по профессии я {self.occupation}, {education_status}."))
 
 person_a = Person("Ибрахим", "08.08.2006", "программист", True)
